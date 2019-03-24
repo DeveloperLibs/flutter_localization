@@ -1,0 +1,12 @@
+{
+  "key_password": "Password",
+  "key_must_be_at_least_6_characters": "Must be at least 6 characters",
+  "key_email": "Email",
+  "key_please_enter_valid_email": "Please enter valid email",
+  "key_last_name": "Last name",
+  "key_enter_last_name": "Enter last name",
+  "key_first_name": "First name",
+  "key_enter_first_name": "Enter first name",
+  "key_next": "Next"
+
+}

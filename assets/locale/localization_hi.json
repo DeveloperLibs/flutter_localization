@@ -1,0 +1,13 @@
+{
+
+  "key_password": "पारण शब्द",
+  "key_must_be_at_least_6_characters": "कम से कम 6 अक्षर का होना चाहिए",
+  "key_email": "ईमेल",
+  "key_please_enter_valid_email": "कृपया वैध ईमेल दर्ज़ करें",
+  "key_last_name": "अंतिम नाम",
+  "key_enter_last_name": "अंतिम नाम दर्ज करो",
+  "key_first_name": "पहला नाम",
+  "key_enter_first_name": "पहला नाम डालो",
+  "key_next": "आगामी"
+
+}
